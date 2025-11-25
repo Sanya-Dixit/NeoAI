@@ -1,0 +1,6 @@
+@echo off
+echo Starting Neo AI...
+echo.
+echo Using virtual environment Python...
+.\.venv\Scripts\python.exe main.py
+pause
